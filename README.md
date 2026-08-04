@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0217-contains-duplicate) |
 | [3731-find-missing-elements](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -23,4 +24,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
