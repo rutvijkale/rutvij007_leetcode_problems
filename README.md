@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0263-ugly-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
