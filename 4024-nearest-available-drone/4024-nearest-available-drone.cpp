@@ -20,7 +20,6 @@ public:
                 cout<<min1;
             }
         }
-        if(min1==INT_MAX)return -1;
         return count;
     }
 };
