@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0217-contains-duplicate) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/3731-find-missing-elements) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0876-middle-of-the-linked-list) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0234-palindrome-linked-list) |
@@ -124,4 +127,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
