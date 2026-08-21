@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0048-rotate-image) |
 | [0263-ugly-number](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0263-ugly-number) |
 | [0445-add-two-numbers-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0445-add-two-numbers-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
