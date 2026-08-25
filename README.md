@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0217-contains-duplicate) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0237-delete-node-in-a-linked-list) |
