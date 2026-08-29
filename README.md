@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
@@ -241,4 +242,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0226-invert-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
