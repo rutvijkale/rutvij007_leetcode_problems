@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0152-maximum-product-subarray](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0217-contains-duplicate) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0152-maximum-product-subarray) |
 ## Greedy
 |  |
 | ------- |
