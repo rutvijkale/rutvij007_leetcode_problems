@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0234-palindrome-linked-list) |
+| [0443-string-compression](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0443-string-compression](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0443-string-compression) |
 | [2351-first-letter-to-appear-twice](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/2351-first-letter-to-appear-twice) |
 ## Bracket Sequences
 |  |
