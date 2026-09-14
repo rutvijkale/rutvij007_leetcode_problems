@@ -6,7 +6,7 @@ public:
         {
             sum+=c[i];
         }
-        if(k==c.size())return sum;
+        //if(k==c.size())return sum;
         int sum1=sum;
         i--;
         while(i>=0)
