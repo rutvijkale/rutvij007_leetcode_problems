@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0031-next-permutation) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0443-string-compression](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0443-string-compression) |
 | [2351-first-letter-to-appear-twice](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/2351-first-letter-to-appear-twice) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0152-maximum-product-subarray) |
 ## Greedy
@@ -344,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0836-rectangle-overlap) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
