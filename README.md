@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0074-search-a-2d-matrix) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0061-rotate-list) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
