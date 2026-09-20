@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1929-concatenation-of-array](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/1929-concatenation-of-array) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/2181-merge-nodes-in-between-zeros) |
+| [3498-reverse-degree-of-a-string](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0443-string-compression](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0443-string-compression) |
 | [2351-first-letter-to-appear-twice](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/2351-first-letter-to-appear-twice) |
+| [3498-reverse-degree-of-a-string](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
