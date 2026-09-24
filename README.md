@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1929-concatenation-of-array](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/1929-concatenation-of-array) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2553-separate-the-digits-in-an-array](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
 |  |
