@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0875-koko-eating-bananas) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0334-increasing-triplet-subsequence) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Backtracking
 |  |
@@ -419,4 +421,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0701-insert-into-a-binary-search-tree) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
