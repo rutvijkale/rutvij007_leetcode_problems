@@ -1,19 +1,14 @@
 class Solution {
 public:
     int hIndex(vector<int>& c) {
-        int n = c.size();
-        int low = 0, high = n - 1;
-
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-
-            if (c[mid] >= n - mid) {
-                high = mid - 1;
-            } else {
-                low = mid + 1;
-            }
+        int low=0,n=c.size(),high=n-1;
+        while(low<=high)
+        {
+            int mid=(low+high)/2;
+            if(c[mid]==n-mid)return c[mid];
+            else if(c[mid]<n-mid)low=mid+1;
+            else high=mid-1;
         }
-
-        return n - low;
+        return n-low;
     }
 };
