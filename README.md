@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0275-h-index-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0275-h-index-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0275-h-index-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0275-h-index-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0875-koko-eating-bananas) |
