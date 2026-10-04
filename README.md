@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [2487-remove-nodes-from-linked-list](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tree
 |  |
@@ -386,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0152-maximum-product-subarray) |
 ## Greedy
