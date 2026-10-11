@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0275-h-index-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0048-rotate-image) |
 | [0263-ugly-number](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0263-ugly-number) |
 | [0445-add-two-numbers-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0445-add-two-numbers-ii) |
+| [0633-sum-of-square-numbers](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0836-rectangle-overlap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0443-string-compression) |
+| [0633-sum-of-square-numbers](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
