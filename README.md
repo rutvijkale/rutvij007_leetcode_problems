@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0836-rectangle-overlap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2485-find-the-pivot-integer](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/2485-find-the-pivot-integer) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2485-find-the-pivot-integer](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/2485-find-the-pivot-integer) |
 | [3903-smallest-stable-index-i](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
