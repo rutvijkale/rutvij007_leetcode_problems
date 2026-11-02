@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0275-h-index-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0347-top-k-frequent-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0875-koko-eating-bananas) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0347-top-k-frequent-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0048-rotate-image) |
 | [0263-ugly-number](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0263-ugly-number) |
 | [0445-add-two-numbers-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0445-add-two-numbers-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0836-rectangle-overlap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
