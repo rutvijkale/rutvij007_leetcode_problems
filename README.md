@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0051-n-queens](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0113-path-sum-ii) |
 ## Geometry
 |  |
@@ -486,4 +488,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0347-top-k-frequent-elements) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
