@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0994-rotting-oranges](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0994-rotting-oranges) |
 ## Divide and Conquer
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0101-symmetric-tree) |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0079-word-search) |
 | [0443-string-compression](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0443-string-compression) |
 | [1021-remove-outermost-parentheses](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -436,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0051-n-queens](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/rutvijkale/rutvij007_leetcode_problems/tree/master/0113-path-sum-ii) |
 ## Geometry
 |  |
